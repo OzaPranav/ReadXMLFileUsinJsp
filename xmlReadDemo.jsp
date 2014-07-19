@@ -32,4 +32,6 @@ ReadXMLFileUsinJsp
 <br/>
 <br/>
 
-put xalan.jar  in lib floder......
+put xalan.jar  in either your <tomcat-install-dir>/webapps/<YourProjectName>/lib/ or <tomcat-install-dir>/lib floder......
+
+http://www.java2s.com/Code/JarDownload/xalan/xalan.jar.zip
